@@ -1,14 +1,14 @@
 # Instructions
 1. Download FModel [https://github.com/4sval/FModel/releases]
-2. Configure Settings
-GAME
-Archive Directory: <PATH>\SteamLibrary\steamapps\common\Palworld
-UE Versions: GAME_UE5_1
-Texture Platform: Desktop / Mobile
-Compressed Audio: Play the decompressed data
-ADVANCED
-Local Mappings File: Enabled
-Mapping File Path (downloaded from this repo): <PATH>\Pal-Windows_1.2_Steam_Mappings.usmap
+2. Configure Settings in FModel
+GAME  
+Archive Directory: <PATH>\SteamLibrary\steamapps\common\Palworld  
+UE Versions: GAME_UE5_1  
+Texture Platform: Desktop / Mobile  
+Compressed Audio: Play the decompressed data  
+ADVANCED  
+Local Mappings File: Enabled  
+Mapping File Path (downloaded from this repo): <PATH>\Pal-Windows_1.2_Steam_Mappings.usmap  
 ![image](https://github.com/elliotks/Palworld-FModel/assets/10646544/cb09bdc2-a166-4344-b59b-dccb24ff1a2a)
 3. ???
 4. Profit!
