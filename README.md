@@ -13,6 +13,25 @@ Mapping File Path (downloaded from this repo): .\Pal-Windows_1.2_Steam_Mappings.
 3. ???
 4. Profit!
 
+## FModel Paths
+Models: Pal/Content/Pal/Model
+Finding a Pal Model by name: Pal/Content/L10N/en/Pal/DataTable/Text/DT_PalNameText.uasset
+For Example, if you wanted to find Depresso - open DT_PalNameText.uasset, search for Depresso
+You should see data similar to
+```
+      "PAL_NAME_NegativeKoala": {
+        "TextData": {
+          "Namespace": "DT_PalNameText",
+          "Key": "PAL_NAME_NegativeKoala_TextData",
+          "SourceString": "Depresso",
+          "LocalizedString": "Depresso"
+        }
+      },
+```
+Now that we know the Key for Depresso contains "NegativeKoala" the model can be found in: Pal/Content/Pal/Model/Character/Monster/
+Full Path: Pal/Content/Pal/Model/Character/Monster/NegativeKoala/SK_NegativeKoala.uasset
+
+
 ## Documentation I followed
 -   Procedure to check the contents of a pak file in FModel
 
