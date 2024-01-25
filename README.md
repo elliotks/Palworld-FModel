@@ -1,4 +1,5 @@
 # Instructions
+###### Quick note, you do not need the Pal-Windows_AES_Keys_Steam_vX.X.X.X.txt files - they are here for general reference. 
 1. Download FModel [https://github.com/4sval/FModel/releases]
 2. Configure Settings in FModel
 GAME  
@@ -8,12 +9,11 @@ Texture Platform: Desktop / Mobile
 Compressed Audio: Play the decompressed data  
 ADVANCED  
 Local Mappings File: Enabled  
-Mapping File Path (downloaded from this repo, use the version relevant for the Palworld version): .\Pal-Windows_Mappings_Steam_v0.1.3.0.usmap  
+Mapping File Path (downloaded from this repo, use the version relevant for the Palworld version):   
+.\Pal-Windows_Mappings_Steam_v0.1.3.0.usmap  
 ![image](https://github.com/elliotks/Palworld-FModel/assets/10646544/cb09bdc2-a166-4344-b59b-dccb24ff1a2a)
 3. ???
 4. Profit!
-
-###### Quick note, you do not need the Pal-Windows_AES_Keys_Steam_vX.X.X.X.txt files - they are here for general reference. 
 
 ## FModel Paths
 Models: Pal/Content/Pal/Model  
