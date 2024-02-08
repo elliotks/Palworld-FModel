@@ -10,7 +10,7 @@ Compressed Audio: Play the decompressed data
 ADVANCED  
 Local Mappings File: Enabled  
 Mapping File Path (downloaded from this repo, use the version relevant for the Palworld version):   
-.\Pal-Windows_Mappings_Steam_v0.1.4.0.usmap  
+.\Pal-Windows_Mappings_Steam_v0.1.4.1.usmap  
 ![image](https://github.com/elliotks/Palworld-FModel/assets/10646544/cb09bdc2-a166-4344-b59b-dccb24ff1a2a)
 3. ???
 4. Profit!
